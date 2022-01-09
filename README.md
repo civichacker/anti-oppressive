@@ -14,4 +14,7 @@ Inequity. (2015). In _Black's Law Dictionary_ (Abridged 10th ed., p. 653). Unite
 Abbott, S. (2001). _Understanding Analysis_. United States: Springer Science+Business Media, Inc.
 
 
+[Download the Bibiography in BibText](./bibliography.bib)
+
+
 2022 Civic Hacker, LLC. All rights reserved.
