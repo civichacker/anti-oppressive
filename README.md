@@ -1,6 +1,6 @@
 # Anti-oppressive Technology
 
-This repository contains hypothesis and findings with regards to research into Anti-Oppressive technologies
+This repository contains hypothesis and findings with regards to research into Anti-Oppressive technologies, a Theory of Change at Civic Hacker.
 
 ### References
 
