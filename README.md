@@ -9,7 +9,11 @@ This exposition looks into theories on human behavior, historical examples of te
 
 ### Definitions
 
+> _Oppression_ - An offense consisting in the abuse of discretionary authority by a public officer who has improper motive.
+
 Oppression. (2015). In _Black's Law Dictionary_ (Abridged 10th ed., p. 923). United States: West Publishing Company.
+
+> _Inequity_ - An instance of injustice.
 
 Inequity. (2015). In _Black's Law Dictionary_ (Abridged 10th ed., p. 653). United States: West Publishing Company.
 
