@@ -1,4 +1,4 @@
-# Anti-oppressive Technology
+# Anti-oppressive Technologies
 
 This repository contains research into Anti-Oppressive technologies, a Theory of Change at Civic Hacker, LLC.
 
