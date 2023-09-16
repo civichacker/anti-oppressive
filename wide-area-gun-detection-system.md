@@ -28,4 +28,4 @@ The WAGS deployment requires a network with Internet access available and reliab
 
 <img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
-When a firearm enters the perimeter, signals collected are checked and sent to people inside the perimeter and computer systems/persons far outside (e.g., law enforcement, first responders, etc).&#x20;
+When a firearm enters the perimeter, signals collected are checked and sent to people inside the perimeter (e.g., staff, school resource officers) and computer systems/persons far outside (e.g., law enforcement, first responders, etc).&#x20;
