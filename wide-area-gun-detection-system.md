@@ -22,8 +22,10 @@ For Wide-area Detection at Public buildings such as schools and libraries, the s
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-The WAGS deployment requires a network with Internet access available and reliable within the desired radius of the structure (e.g., 50 meters). The network's makeup may include existing hardware, software, wired or wireless setups.&#x20;
+The WAGS deployment requires a network with Internet access available and reliable within the desired radius of the structure (e.g., 50 meters). The network's makeup may include existing hardware, software, wired and wireless setups.&#x20;
 
 
 
 <img src=".gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+
+When a firearm enters the perimeter, signals collected are checked and sent to people inside the perimeter and computer systems/persons far outside (e.g., law enforcement, first responders, etc).&#x20;
