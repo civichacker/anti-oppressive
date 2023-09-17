@@ -30,8 +30,8 @@ The WAGS deployment requires a network with Internet access available and reliab
 
 When a firearm enters the perimeter, signals collected are checked and sent to people inside the perimeter (e.g., staff, school resource officers) and computer systems/persons far outside (e.g., law enforcement, first responders, etc).&#x20;
 
-The system that confirms the firearm's presence and sends notifications to recipients can be built using cloud-native protocols such as MQTT, TCP/IP, and UDP suitable for timely communication of events over large distances. Internal perimeter communication, though at a smaller-scale can leverage a mix of digital and analog communication tools such as cellular, radio, or wifi.
+The system that confirms the firearm's presence and sends notifications to recipients can be built using cloud-native protocols such as MQTT, TCP/IP, and UDP suitable for timely communication of events over large distances. Internal perimeter communication, though at a smaller scale, can leverage a mix of digital and analog communication tools such as cellular, radio, and wifi.
 
-### Markers for firearms
+### Designing markers for firearms
 
-The Wide-are detection system can not dictate the means in which the wide-area noetwork becomes aware of a firearm within its perimeter. The effort to to der&#x20;
+The choice of markers for firearms will drive the deployment of portions of the internal perimeter communication of WAGS. This document assumes that markers are strictly designed to detect perimeter breaches and not necessarily to identify the firearm user or triangulate the firearm's location relative to the structure. As a part of the effort to design a marker, the implementer must remember that it must be possible to retrofit existing firearms with the marker.&#x20;
