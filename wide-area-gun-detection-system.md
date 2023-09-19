@@ -38,6 +38,10 @@ The choice of markers for firearms will drive the deployment of portions of the 
 
 Obtaining the makers requires specific engineering effort that may require Private-Public partnerships and 'Wisdom of the Crowd' techniques such as Hackathons.
 
+#### Chemical Markers
+
+There's a class of chemicals called Carbon monoxide-releasing molecules, or CORM for short. Some emit CO when the light hits it, called PhotoCORM. [Pyranine is one of them](https://arxiv.org/abs/2107.03672).&#x20;
+
 ### Community-driven retrofitting of firearms
 
 The retrofitting program aims to increase the percentage of guns in circulation with markers detectable by WAGS. This document suggests that the community has the critical role of retrofitting firearms already in circulation. Similar to the 'gun buy-back program' model, a community retrofitting program would provide incentives to individuals who participate. Furthermore, a 'no-questions asked' policy would help ensure confidence that participation does not lead to persecution.
