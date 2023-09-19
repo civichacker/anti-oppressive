@@ -32,15 +32,18 @@ When a firearm enters the perimeter, signals collected are checked and sent to p
 
 The system that confirms the firearm's presence and sends notifications to recipients can be built using cloud-native protocols such as MQTT, TCP/IP, and UDP suitable for timely communication of events over large distances. Internal perimeter communication can leverage digital and analog communication tools such as cellular, radio, and wifi.
 
-### Designing markers for firearms
+### Exploring markers for firearms
 
-The choice of markers for firearms will drive the deployment of portions of the internal perimeter communication of WAGS. This document assumes that markers are strictly designed to detect perimeter breaches and not necessarily to identify the firearm user or triangulate the firearm's location relative to the structure. As a part of the effort to design a marker, the implementer must remember that it must be possible to retrofit existing firearms with a marker.
+The choice of markers for firearms will drive the deployment of portions of the internal perimeter communication of WAGS. This document assumes that markers are strictly designed to detect perimeter breaches and not necessarily to identify the firearm user or triangulate the firearm's location relative to the structure. As a part of the effort to design a marker, the implementer must remember that it must be possible to retrofit existing firearms with the marker. Identifying and testing various markers may be most feasible when Private-Public partnerships and 'Wisdom of the Crowd' techniques such as Hackathons are used. Please consider all sorts of marker compositions and applications:
 
-Obtaining the makers requires specific engineering effort that may require Private-Public partnerships and 'Wisdom of the Crowd' techniques such as Hackathons.
+* electronic
+* radioactivity
+* fluorescence&#x20;
+* chemical
 
 #### Chemical Markers
 
-There's a class of chemicals called Carbon monoxide-releasing molecules, or CORM for short. Some emit CO when the light hits it, called PhotoCORM. [Pyranine is one of them](https://arxiv.org/abs/2107.03672).&#x20;
+There's a class of chemicals called Carbon monoxide-releasing molecules, or CORM for short. The ones that emit CO when interacting with light are called PhotoCORM. [Pyranine is one of them](https://arxiv.org/abs/2107.03672).
 
 ### Community-driven retrofitting of firearms
 
