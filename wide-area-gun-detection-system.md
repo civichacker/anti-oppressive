@@ -54,3 +54,5 @@ The retrofitting program aims to increase the percentage of guns in circulation 
 Community-driven retrofitting is to occur at locations outside of the WAGS detection area, labeled on the graphic as "Armory." The sole purpose of permanent and temporary armories is to provide a communal location where retrofitting can occur and to distribute incentives to participants.
 
 ### Partnerships with Gun Manufacturers
+
+Newly manufactured firearms enter circulation each day. There's an opportunity for our legislators to engage with Firearm manufacturers to help with the marking of firearms during the manufacturing process.
