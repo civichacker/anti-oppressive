@@ -20,8 +20,12 @@ Oppression. (2015). In _Black's Law Dictionary_ (Abridged 10th ed., p. 923). Uni
 
 Inequity. (2015). In _Black's Law Dictionary_ (Abridged 10th ed., p. 653). United States: West Publishing Company.
 
+> Oppressive system - An apparatus where public officers can collude in the abuse of their discretionary authority with impunity.&#x20;
+
+Oppressive System (2024). Civic Hacker LLC
+
 ### Bibliography
 
-[Download the Bibiography in BibText](bibliography.bib)
+[Download the Bibliography in BibText](bibliography.bib)
 
 2022 Civic Hacker, LLC. All rights reserved.
